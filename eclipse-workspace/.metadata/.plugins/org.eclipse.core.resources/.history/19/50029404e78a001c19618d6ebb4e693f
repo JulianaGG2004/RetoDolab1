@@ -1,0 +1,8 @@
+package com.retodolab.springboot.backend.reto.models.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CategoriaServiceImpl implements ICategoriaService{
+
+}

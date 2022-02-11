@@ -1,0 +1,5 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Juliana','Goyeneche','jgoyeneche@gmail.com','2021-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mariano','Sanchez','mari_san@gmail.com','2021-05-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Dario','Gutierrez','dada_rio@gmail.com','2021-03-12');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Samuel','Gonzalez','samuel_123@gmail.com','2020-09-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Camila','Mendoza','cami_892@gmail.com','2021-03-01');

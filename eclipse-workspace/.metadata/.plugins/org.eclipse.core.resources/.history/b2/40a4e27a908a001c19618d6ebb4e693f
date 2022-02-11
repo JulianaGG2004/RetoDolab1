@@ -1,0 +1,5 @@
+package com.retodolab.springboot.backend.reto.models.entity;
+
+public class Actor {
+
+}
